@@ -8,7 +8,7 @@
 <meta name="keywords" content="Education" />
 <meta name="author" content="JspTech" />
 <!-- Page Title -->
-<title>Mahunyal | Home</title>
+<title>Mahunyal | Home Page</title>
 <!-- Favicon and Touch Icons -->
 <link href="images/favicon.png" rel="shortcut icon" type="image/png">
 <!-- Stylesheet -->
